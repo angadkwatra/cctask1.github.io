@@ -1,0 +1,219 @@
+* {
+  margin: 0;
+  /* font-size: 30px; */
+}
+nav {
+  font-size: 30px;
+}
+.logo {
+  background: url(https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png);
+
+  height: 100px;
+  width: 10%;
+  display: inline-block;
+  background-size: 100% 100%;
+}
+nav ul {
+  float: right;
+  font-size: 30px;
+}
+nav ul li {
+  display: inline-block;
+  font-size: 0.7em;
+  padding: 15px;
+  padding-top: 25px;
+}
+nav {
+  width: 100%;
+  display: inline-block;
+}
+
+nav ul li a {
+  text-decoration: none;
+  text-align: center;
+}
+
+nav ul li a:hover {
+  text-decoration: underline black;
+  color: black;
+}
+#Login {
+  margin-left: 50px;
+  margin-right: 25px;
+  border-radius: 35%;
+  background-color: white;
+  padding: 10px;
+}
+#Login:hover {
+  border: black;
+}
+
+#heading {
+  display: inline-block;
+  font-size: 1.3em;
+  /* margin: 10px; */
+  /* padding-bottom: 50px; */
+  position: relative;
+  bottom: 35px;
+  padding-left: 10px;
+}
+.one {
+  width: 100%;
+  height: 600px;
+  background: url(https://ak.picdn.net/shutterstock/videos/22893562/thumb/1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.download {
+  width: 15%;
+  height: 30%;
+}
+.btn1 {
+  font-size: 23px;
+  height: 11%;
+  width: 23%;
+  display: inline-block;
+  position: absolute;
+  left: 28%;
+  text-align: center;
+  padding: 8px;
+}
+
+.btn2 {
+  font-size: 23px;
+  height: 11%;
+  width: 20%;
+  display: inline-block;
+  position: absolute;
+
+  left: 55%;
+  text-align: center;
+  padding: 8px;
+
+  color: black;
+  border-radius: 25%;
+}
+.btn1 a {
+  text-decoration: none;
+  color: navy;
+}
+.btn2 a {
+  text-decoration: none;
+  color: navy;
+}
+section {
+  position: relative;
+}
+section h1 {
+  font-size: 45px;
+  text-align: center;
+  padding: 25px;
+}
+section p {
+  position: relative;
+  left: 30%;
+  height: 40%;
+  width: 40%;
+  font-size: 21px;
+  text-align: center;
+  padding: 10px;
+  line-height: 150%;
+}
+
+main {
+  width: 100%;
+  height: 500px;
+  background: white;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+main div {
+}
+
+.text {
+  height: 100%;
+  width: 50%;
+  /* background-color: aqua; */
+  display: inline-block;
+  text-align: center;
+}
+
+.text h2 {
+  padding-top: 50px;
+  font-size: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.text p {
+  padding-top: 50px;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.disc {
+  padding: 0;
+}
+
+.image {
+  height: 50%;
+  width: 40%;
+
+  color: white;
+  background: url(discord.png);
+  background-size: 100% 100%;
+  display: inline-block;
+}
+/* body,
+html {
+  position: relative;
+} */
+footer {
+  width: 100%;
+  height: 500px;
+  background-color: black;
+  /* position: absolute;
+  bottom: 0%;
+  left: 0%; */
+}
+footer span {
+  height: 500px;
+}
+
+.beta {
+  width: 17%;
+  display: inline-block;
+  /* background-color: blue; */
+  line-height: 200%;
+  font-size: 23px;
+  text-align: left;
+}
+.beta ul {
+  padding: 0%;
+}
+.beta ul li a {
+  color: white;
+  text-decoration: none;
+}
+.beta ul li a:hover {
+  text-decoration: underline;
+}
+
+.alpha {
+  width: 30%;
+  display: inline-block;
+  color: white;
+  /* background-color: greenyellow; */
+}
+footer h3 {
+  font-size: large;
+  font-weight: 400;
+  color: blueviolet;
+  display: inline-block;
+  font-weight: 700;
+  font-size: 25px;
+  text-align: center;
+}
+footer p {
+}
